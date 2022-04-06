@@ -9,3 +9,4 @@ DIR=$(realpath "${DIR}")
 
 # Copy components to appropriate directories
 cp -R "$DIR/aurorae" "$AURORAE_DIR/skye-blossom"
+cp -R "$DIR/color-scheme/SKYEBlossom.colors" "$COLORSCHEME_DIR/SKYEBlossom.colors"

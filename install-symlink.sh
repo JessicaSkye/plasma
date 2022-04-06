@@ -9,3 +9,4 @@ DIR=$(realpath "${DIR}")
 
 # Create symlink for components
 ln -sf "$DIR/aurorae" "$AURORAE_DIR/skye-blossom"
+ln -sf "$DIR/color-scheme/SKYEBlossom.colors" "$COLORSCHEME_DIR/SKYEBlossom.colors"
