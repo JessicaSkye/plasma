@@ -1,3 +1,7 @@
+<p align="center" width="128px">
+  <img src="./icon.png" />
+</p>
+
 <h1 align="center">🌸 SKYE Blossom - Plasma 🌸</h1>
 <p align="center">A dark yet vibrant cherry flavored KDE Plasma theme set</p>
 
